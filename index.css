@@ -29,7 +29,7 @@ section {
 /*ici  ce sont les informations sur la position et les dimmension de ma photo  de mon cv*/
 #circle_photo {
     background: url('image/ma photo.jpg');
-    width: 305px;
+    width: 310px;
     height: 286px;
     border: rgb(224, 222, 222) solid 8px;
     background-color: floralwhite;
